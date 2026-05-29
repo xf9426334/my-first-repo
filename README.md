@@ -1,4 +1,4 @@
-﻿# My First Repository
+# My First Repository
 
 Hello! This is my first GitHub repository.
 
@@ -14,3 +14,7 @@ git add .         - Stage files for commit
 git commit -m "msg" - Save changes with a message
 git push          - Upload to GitHub
 git status        - Check what changed
+
+## Test Log
+
+- 2026-05-29 16:43 - Git push test
